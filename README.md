@@ -1,52 +1,85 @@
-# Olá, eu sou Lucas Giulliano! 👋
+# Lucas Giulliano Almeida Diniz 👨‍💻
 
-🎓 Estudante de Engenharia de Software  
+### Estudante de Engenharia de Software | Desenvolvimento de Sistemas
 
-💻 Tenho 2 anos de experiência em TI no Exército Brasileiro, atuando com suporte técnico, manutenção de computadores, Windows, Linux, infraestrutura de redes e suporte a sistemas internos.
+💻 Apaixonado por tecnologia, programação e infraestrutura de TI.
+
+Tenho **2 anos de experiência na área de Tecnologia da Informação no Exército Brasileiro**, atuando com suporte técnico, manutenção de computadores, sistemas operacionais e infraestrutura de redes.
+
+Atualmente estou ampliando meus conhecimentos em desenvolvimento de software e participando de projetos web reais.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🔭 Participo do desenvolvimento de sistemas web, incluindo o sistema da Saikō Sushi
-- 🌱 Estudando desenvolvimento web, MySQL, Docker, Git e GitHub
-- 🖥️ Conhecimentos em VPS, Linux e redes de computadores
-- 🤖 Cursos em Inteligência Artificial e elaboração de prompts
-- 🎯 Objetivo: atuar profissionalmente em Análise e Desenvolvimento de Sistemas
-
----
+- 🎓 Cursando **Engenharia de Software**
+- 💻 Interesse em **Análise e Desenvolvimento de Sistemas**
+- 🛠️ Experiência em suporte técnico e infraestrutura de TI
+- 🐧 Conhecimentos em Linux, Windows e servidores VPS
+- 🌱 Estudando JavaScript, MySQL, Docker e Git
+- 🤖 Certificações em Inteligência Artificial e elaboração de prompts
+- 🎯 Buscando oportunidades na área de desenvolvimento de software
 
 ## 🛠️ Tecnologias e ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,linux,docker,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,linux,docker,git,github,vscode&perline=9" alt="Tecnologias e ferramentas" />
 </p>
 
+## 💼 Experiência profissional
 
----
+### Exército Brasileiro — Tecnologia da Informação
+**Experiência: 2 anos**
+
+- Manutenção preventiva e corretiva de computadores
+- Instalação e configuração de Windows e Linux Mint
+- Diagnóstico e resolução de problemas em hardware e software
+- Instalação de certificados digitais em ambientes Linux
+- Criação de usuários em sistemas internos autorizados
+- Suporte a sistemas e páginas institucionais
+- Verificação de portas de switches e cabeamento de rede
+- Testes de conectividade e estabilidade da rede
 
 ## 📌 Projeto em destaque
 
-### Saikō Sushi — Sistema Web
-Sistema web em funcionamento para apoiar a operação de um restaurante.
+### 🍣 Saikō Sushi — Sistema Web
 
-#### Atuação no projeto:
-- Desenvolvimento e apoio na estruturação do sistema web
-- Suporte técnico e acompanhamento do funcionamento do sistema
-- Organização de ambiente e apoio em infraestrutura
-- Contato com banco de dados e rotinas do sistema
+**Projeto real em funcionamento**
 
-#### Tecnologias relacionadas:
-- Desenvolvimento Web
-- MySQL
-- Linux
-- Git e GitHub
+Participação no desenvolvimento e suporte de um sistema web utilizado na operação de um restaurante.
 
-> Projeto real em evolução, voltado para apoio operacional.
+**Atividades relacionadas:**
+- Desenvolvimento e manutenção de funcionalidades web
+- Suporte ao funcionamento do sistema
+- Acompanhamento de problemas e correções
+- Contato prático com banco de dados e infraestrutura
 
----
+🌐 [Conheça o site da Saikō Sushi](https://saikosushiubirata.com.br)
+
+> O código-fonte do sistema não é público. O projeto é apresentado como experiência prática.
+
+## 📚 Cursos e certificações
+
+- 🖥️ Manutenção de Computadores — Exército Brasileiro (2025)
+- 🤖 Certificação Básica em Inteligência Artificial — ESCOM (2026)
+- 🧠 Capacitação em Elaboração de Prompt — CEADEx
+- 🌐 Capacitação em Cabeamento de Redes e Dados — 1º CTA (2026)
+- 🔐 Uso Ético de Redes Sociais e Proteção Contra a Desinformação — CEP (2026)
+
+## 📊 Minha atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasmilitar202005-source&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+</p>
 
 ## 📫 Contato
 
-- ✉️ Email: lucasmilitar202005@gmail.com
-- 🌐 Site: https://saikosushiubirata.com.br
+📧 **E-mail:** lucasmilitar202005@gmail.com
+
+📍 **Goiânia — Goiás, Brasil**
+
+---
+
+<p align="center">
+  <strong>🚀 Sempre aprendendo, desenvolvendo e evoluindo.</strong>
+</p>
